@@ -1,0 +1,9 @@
+{
+    "name": "yurplan/serializer-bug-example",
+    "require": {
+        "php": "8.1.*",
+        "symfony/serializer": "^6.1",
+        "doctrine/annotations": "^1.13",
+        "symfony/property-access": "^6.1"
+    }
+}
